@@ -1,15 +1,15 @@
 <h1 align="center">Hey👋, I'm Arvind Kumar Rana !! Great to see you here!</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p>I am Arvind Kumar Rana, currently pursuing my Bachelor's in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. With a keen interest in programming and coding, aiming to build a career in the field of software development. I am a competitive programmer with some descent knowledge of Data Structure and Algorithm. I am also a Full Stack Web Developer.</p>
+<p>I am Arvind Kumar Rana, currently graduated with my Bachelor's in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. With a keen interest in programming and coding, I am aiming to build a career in software development. I am a competitive programmer with decent knowledge of Data Structure and Algorithms. I am also a Full Stack Web Developer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind0012&label=Profile%20views&color=0e75b6&style=flat" alt="arvind0012" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and Spring Boot**
 
-- 💬 Ask me about **Java, CSS, JavaScript**
+- 💬 Ask me about **C, Java, CSS, JavaScript**
 
 - 📫 How to reach me **arvindrana545@gmail.com**
 
