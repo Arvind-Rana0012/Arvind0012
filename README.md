@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs and Spring Boot**
+- 🌱 I’m currently learning **Cloud-agnostic solutions**
 
 - 💬 Ask me about **C, Java, CSS, JavaScript, ReactJs and NodeJs**
 
