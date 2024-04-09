@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Arvind Kumar Rana !! Great to see you here!</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Associate Engineer at L&T Technology Services.</h3>
 
-<p>I am Arvind Kumar Rana, currently graduated with my Bachelor's in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. With a keen interest in programming and coding, I am aiming to build a career in software development. I am a competitive programmer with decent knowledge of Data Structure and Algorithms. I am also a Full Stack Web Developer.</p>
+<p>I currently hold the position of Associate Engineer at LTTS. I earned my Bachelor's degree in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. My passion lies in programming and coding, which has paved my career path in software development. With a strong background in competitive programming and a solid grasp of Data Structures and Algorithms, I thrive in challenging coding environments. Moreover, I am proficient as a Full Stack Web Developer, having worked with a diverse set of languages and tools including HTML, CSS, JavaScript, ReactJs, NodeJs, Asp.NET, Azure, MongoDB, and MySQL.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind0012&label=Profile%20views&color=0e75b6&style=flat" alt="arvind0012" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJs and Spring Boot**
 
-- 💬 Ask me about **C, Java, CSS, JavaScript**
+- 💬 Ask me about **C, Java, CSS, JavaScript, ReactJs and NodeJs**
 
 - 📫 How to reach me **arvindrana545@gmail.com**
 
