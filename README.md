@@ -1,15 +1,15 @@
 <h1 align="center">Hey👋, I'm Arvind Kumar Rana !! Great to see you here!</h1>
-<h3 align="center">Associate Engineer at L&T Technology Services.</h3>
+<h3 align="center">Engineer at L&T Technology Services.</h3>
 
-<p>I currently hold the position of Associate Engineer at LTTS. I earned my Bachelor's degree in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. My passion lies in programming and coding, which has paved my career path in software development. With a strong background in competitive programming and a solid grasp of Data Structures and Algorithms, I thrive in challenging coding environments. Moreover, I am proficient as a Full Stack Web Developer, having worked with a diverse set of languages and tools including HTML, CSS, JavaScript, ReactJs, NodeJs, Asp.NET, Azure, MongoDB, and MySQL.</p>
+<p>I currently hold the position of Engineer at LTTS. I earned my Bachelor's degree in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. My passion lies in programming and coding, which has paved my career path in software development. With a strong background in competitive programming and a solid grasp of Data Structures and Algorithms, I thrive in challenging coding environments. Moreover, I am proficient as a Full Stack Web Developer, having worked with a diverse set of languages and tools including HTML, CSS, JavaScript, ReactJs, NodeJs, Asp.NET Core, Spring-boot, Azure, MongoDB, and MySQL.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind0012&label=Profile%20views&color=0e75b6&style=flat" alt="arvind0012" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud-agnostic solutions**
+- 🌱 I’m currently working on **Cloud-agnostic solutions**
 
-- 💬 Ask me about **C, Java, CSS, JavaScript, ReactJs and NodeJs**
+- 💬 Ask me about **C#, Java, CSS, JavaScript, ReactJs and NodeJs**
 
 - 📫 How to reach me **arvindrana545@gmail.com**
 
