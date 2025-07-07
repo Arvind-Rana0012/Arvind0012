@@ -1,15 +1,18 @@
 <h1 align="center">Hey👋, I'm Arvind Kumar Rana !! Great to see you here!</h1>
 <h3 align="center">Engineer at L&T Technology Services.</h3>
 
-<p>I'm a Software Enginner at LTTS with two years of Project and hands-on experience on full-stack development and deep-rooted passion for coding. I hold my Bachelor's degree in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. Over the last two years, I've honed my skills in building scalable and robust web-application, driven by strong foundation of Competitive programming and data-structure & Algorithm. My expertise possesa broad and adapatable skill-set across a comprehensive tech-stack which includes Spring-boot, AWS, Asp.NET Core, MySQL, JavaScript, ReactJs, HTML, CSS - allowing me to seamlessely bridge both front-end and back-end development.</p>
+<p>I'm a Software Enginner at LTTS with two years of Project and hands-on experience on full-stack development and deep-rooted passion for coding. I hold my Bachelor's degree in Computer Science and Engineering from Silicon Institute of Technology, Sambalpur. Over the last two years, I've honed my skills in building scalable and robust web-application, driven by strong foundation of Competitive programming and data-structure & Algorithm. 
+My expertise possesa broad and adapatable skill-set across a comprehensive tech-stack which includes Spring-boot, AWS, Asp.NET Core, MySQL, JavaScript, ReactJs, HTML, CSS - allowing me to seamlessely bridge both front-end and back-end development.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind0012&label=Profile%20views&color=0e75b6&style=flat" alt="arvind0012" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
 - 🌱 I’m currently working on ** AWS-Services **
 
 - 💬 Ask me about ** Java, Spring-boot, Asp.NET Core, JavaScript, ReactJs **
+
 
 - 📫 How to reach me **arvindrana545@gmail.com**
 
